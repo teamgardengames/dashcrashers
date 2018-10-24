@@ -1,7 +1,7 @@
 {
-"vidtimeaccu" : 200,
+"vidtimeaccu" : 220,
 "vidtimesincestart" : 100,
-"vidmasktime" : 240,
+"vidmasktime" : 300,
 "staminatotal" : 8,
 "staminacd" : 360,
 "staminaadd" : 4,
