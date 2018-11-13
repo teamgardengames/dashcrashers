@@ -1,0 +1,11 @@
+{
+"vidtimeaccu" : 220,
+"vidtimesincestart" : 100,
+"vidmasktime" : 300,
+"staminatotal" : 8,
+"staminacd" : 360,
+"staminaadd" : 4,
+"staminacost" : 4000,
+"switchcn" : 0
+"switchad" : 1
+}
