@@ -5,5 +5,9 @@
 "staminatotal" : 8,
 "staminacd" : 360,
 "staminaadd" : 4,
-"staminacost" : 4000
+"staminacost" : 4000, 
+"needupdate" : 1, 
+"updatedesc_cn" : "全新的<color=red>无尽模式</color>和<color=red>圣诞套装</color>现已推出\n\n   快来试试吧！",
+"updatedesc_tw" : "全新的<color=red>無盡模式</color>和<color=red>聖誕套裝</color>現已推出\n\n   快來試試吧！",
+"updatedesc_en" : "<size=14><color=red>Endless Mode</color> is released now!\nPlay now and get the <color=red>Christmas Costumes!</color></size>"
 }
