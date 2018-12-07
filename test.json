@@ -1,0 +1,13 @@
+{
+"vidtimeaccu" : 220,
+"vidtimesincestart" : 100,
+"vidmasktime" : 300,
+"staminatotal" : 8,
+"staminacd" : 360,
+"staminaadd" : 4,
+"staminacost" : 4000, 
+"needupdate" : 1, 
+"updatedesc_cn" : "无尽模式现已推出！",
+"updatedesc_tw" : "無盡模式現已推出！",
+"updatedesc_en" : "Endless Mode is released now!"
+}
