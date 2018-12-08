@@ -6,6 +6,8 @@
 "staminacd" : 360,
 "staminaadd" : 4,
 "staminacost" : 4000,
+"endlesshurtinc" : 2,
+"endlesshurtmax" : 16,
 "switchcn" : 1, 
 "switchad" : 1, 
 "switchad2" : 0
